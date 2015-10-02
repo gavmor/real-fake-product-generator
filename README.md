@@ -9,7 +9,7 @@ Going off the [Products Feed Specification](https://support.google.com/merchants
 - [ ] Detailed Product Attributes and Item Groupings
 - [ ] Tax & Shipping
 - [ ] Product Combinations
-- [ ] Adult Products
+- [x] Adult Products
 - [ ] AdWords Attributes
 - [ ] Custom Label Attributes for Shopping Campaigns
 - [ ] Additional Attributes
