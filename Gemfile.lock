@@ -1,0 +1,15 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    dunmanifestin (0.0.8)
+      trollop (~> 2.0)
+    trollop (2.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dunmanifestin
+
+BUNDLED WITH
+   1.10.5
