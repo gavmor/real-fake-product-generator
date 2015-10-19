@@ -1,5 +1,5 @@
 # real-fake-product-generator
-A Dunmanifestin palette for spoofing the Google Product Feed specification
+A [Dunmanifestin](https://github.com/quavmo/Dunmanifestin) [palette](https://github.com/quavmo/dunmanifestin-palettes) for spoofing the Google Product Feed specification
 
 Going off the [Products Feed Specification](https://support.google.com/merchants/answer/188494?hl=en), these are the details we've implemented:
 
